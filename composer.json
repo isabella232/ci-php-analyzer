@@ -7,14 +7,9 @@
         {"name": "Johannes Schmitt", "email": "schmittjoh@gmail.com"}
     ],
 
-    "repositories": [
-        {"type": "vcs", "url": "https://github.com/walkeralencar/ci-PHP-Parser"}
-    ],
-
-
     "require": {
         "php": ">=5.4",
-        "walkeralencar/ci-utils": "dev-master",
+        "walkeralencar/ci-utils": "*",
         "jms/composer-deps-analyzer": "~0.1",
         "jms/php-manipulator": "dev-master",
         "jms/parser-lib": "1.*",
