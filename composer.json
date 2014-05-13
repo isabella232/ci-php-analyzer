@@ -1,5 +1,5 @@
 {
-    "name": "scrutinizer/php-analyzer",
+    "name": "walkeralencar/php-analyzer",
     "description": "Advanced Static Analysis of and Auto-Fixer for PHP Code",
     "license": "Apache2",
 
@@ -8,14 +8,14 @@
     ],
 
     "repositories": [
-        {"type": "vcs", "url": "https://github.com/schmittjoh/PHP-Parser"}
+        {"type": "vcs", "url": "https://github.com/walkeralencar/ci-PHP-Parser"}
     ],
 
     "minimum-stability": "dev",
 
     "require": {
         "php": ">=5.4",
-        "scrutinizer/utils": "dev-master",
+        "walkeralencar/ci-utils": "dev-master",
         "jms/composer-deps-analyzer": "~0.1",
         "jms/php-manipulator": "dev-master",
         "jms/parser-lib": "1.*",
