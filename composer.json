@@ -1,5 +1,5 @@
 {
-    "name": "walkeralencar/php-analyzer",
+    "name": "walkeralencar/ci-php-analyzer",
     "description": "Advanced Static Analysis of and Auto-Fixer for PHP Code",
     "license": "Apache2",
 
